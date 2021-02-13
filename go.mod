@@ -1,4 +1,4 @@
-module github.com/mlgd/freebox
+module github.com/mlgd/freebox-go-sdk
 
 go 1.15
 
